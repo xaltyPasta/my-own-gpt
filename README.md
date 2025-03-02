@@ -1,2 +1,2 @@
 # my-own-gpt
-my own model
+my own demo model built from scratch via tutorial
